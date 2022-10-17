@@ -1,0 +1,30 @@
+class AppImages {
+  static const String classRoom = "assets/images/classroom.png";
+  static const String getStarted = "assets/images/get_started.png";
+  static const String login = "assets/images/login.png";
+  static const String logo = "assets/images/logo.png";
+  static const String student = "assets/images/student.png";
+  static const String teacher = "assets/images/teacher.png";
+  static const String background = "assets/images/background.png";
+  static const String arrowBack = "assets/images/arrow_back.png";
+  static const String bell = "assets/images/bell.png";
+  static const String classRoom1 = "assets/images/classroom 1.png";
+  static const String fullScreen = "assets/images/fullScreen.png";
+  static const String info = "assets/images/info.png";
+  static const String learn = "assets/images/learn.png";
+  static const String list = "assets/images/list.png";
+  static const String menu = "assets/images/menu.png";
+  static const String whatsapp = "assets/images/whatsapp.png";
+  static const String shoppingCart = "assets/images/shopping-cart.svg";
+  static const String studyMaterial = "assets/images/study_material.png";
+  static const String homeIcon = "assets/images/home.png";
+  static const String mySchedule = "assets/images/my_schedule.png";
+  static const String myWallet = "assets/images/my_wallet.png";
+  static const String myWishlist = "assets/images/my_wishlist.png";
+  static const String faqs = "assets/images/faqs.png";
+  static const String help_support = "assets/images/help_and_support.png";
+  static const String profile = "assets/images/profile_student_teacher.png";
+  static const String settings = "assets/images/settings.png";
+  static const String logout = "assets/images/logout.png";
+  static const String dashBoard = "assets/images/dashboard.png";
+}
